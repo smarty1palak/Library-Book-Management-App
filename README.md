@@ -1,5 +1,2 @@
-## SOFTWARE-ENGINEERING PROJECT
-
-### Library Book Management App
-
-Documentation and work related to the project.
+# Library-Management-Android-App
+Android application for library book management system
